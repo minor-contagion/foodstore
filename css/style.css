@@ -1055,11 +1055,11 @@ video {
 }
 
 .bg-\[url\(\'\.\.\/img\/banner_bg\.png\'\)\] {
-  background-image: url('../img/banner_bg.png');
+  background-image: url(img/banner_bg.png);
 }
 
 .bg-\[url\(\'\.\.\/img\/Subscribe\.png\'\)\] {
-  background-image: url('../img/Subscribe.png');
+  background-image: url(img/Subscribe.png);
 }
 
 .bg-cover {
